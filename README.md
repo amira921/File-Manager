@@ -58,19 +58,14 @@ user can:
 <p align="left"> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/createDirectory.PNG" alt="" width="400" height="300"/> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/deleteDirectory2.PNG" alt="" width="400" height="300">
 </details>
 
-<summary> </summary>
-
 <details>
-
 **<summary>Move Directory</summary>**
 <p align="left"> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/moveDirectory1.PNG" alt="" width="350" height="300"/> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/moveDirectory2.PNG" alt="" width="200" height="300"/>
 <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/moveDirectory3.PNG" alt="" width="200" height="300"/>
 </details>
 
 <details>
-
 **<summary>Copy Directory </summary>**
 <p align="left"> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/copyDirectory.PNG " alt="" width="400" height="300"/> <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/copyDirectory2.PNG" alt="" width="400" height="300"/>
 <img src="https://github.com/amira921/File-Manager/blob/main/screenshot/copyDirectory3.PNG" alt="" width="400" height="300"/>
 </details>
-<summary> </summary>
